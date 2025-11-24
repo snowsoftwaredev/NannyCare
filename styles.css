@@ -1,0 +1,81 @@
+/* 
+ * NannyCare - Pink Theme Stylesheet
+ * Color scheme based on bright pink theme
+ */
+
+:root {
+    --primary-pink: #FF69B4;
+    --light-pink: #FFB6C1;
+    --dark-pink: #FF1493;
+    --background-pink: #FFF0F5;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: var(--background-pink);
+    color: #333;
+    min-height: 100vh;
+}
+
+header {
+    background-color: var(--primary-pink);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+main {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: var(--primary-pink);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+h1, h2, h3 {
+    color: var(--dark-pink);
+}
+
+a {
+    color: var(--dark-pink);
+}
+
+a:hover {
+    color: var(--primary-pink);
+}
+
+.btn {
+    background-color: var(--primary-pink);
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: var(--dark-pink);
+}
+
+.card {
+    background-color: white;
+    border: 2px solid var(--light-pink);
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem 0;
+    box-shadow: 0 2px 5px rgba(255, 105, 180, 0.2);
+}
