@@ -12,6 +12,7 @@ function App() {
             <a href="#home">Inicio</a>
             <a href="#services">Servicios</a>
             <a href="#about">Nosotros</a>
+            <a href="#contact">Contacto</a>
             <button className="btn-nav">Iniciar Sesión</button>
           </div>
         </div>
@@ -22,6 +23,9 @@ function App() {
       </main>
       <footer className="footer">
         <div className="container">
+          <div id="contact" className="contact-section">
+            <p><strong>Contacto:</strong> <a href="mailto:contacto@nannycare.com">contacto@nannycare.com</a></p>
+          </div>
           <p>&copy; 2025 NannyCare. Todos los derechos reservados.</p>
         </div>
       </footer>

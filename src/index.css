@@ -317,6 +317,19 @@ body {
   border-top: 1px solid #eee;
 }
 
+.contact-section {
+  margin-bottom: 1rem;
+}
+
+.contact-section a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.contact-section a:hover {
+  text-decoration: underline;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .hero {
