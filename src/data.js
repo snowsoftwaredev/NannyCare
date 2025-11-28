@@ -2,7 +2,7 @@ export const babysitters = [
   {
     id: 1,
     name: "María González",
-    photoUrl: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1000&auto=format&fit=crop",
+    photoUrl: "https://images.unsplash.com/photo-1587654780291-39c9404d746b?q=80&w=1000&auto=format&fit=crop",
     rating: 4.9,
     reviews: 42,
     experience: "4 años",
@@ -13,7 +13,7 @@ export const babysitters = [
   {
     id: 2,
     name: "Sofía Martínez",
-    photoUrl: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1000&auto=format&fit=crop",
+    photoUrl: "https://images.unsplash.com/photo-1609220136736-443140cffec6?q=80&w=1000&auto=format&fit=crop",
     rating: 4.8,
     reviews: 28,
     experience: "3 años",
@@ -24,7 +24,7 @@ export const babysitters = [
   {
     id: 3,
     name: "Valentina López",
-    photoUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1000&auto=format&fit=crop",
+    photoUrl: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?q=80&w=1000&auto=format&fit=crop",
     rating: 5.0,
     reviews: 15,
     experience: "2 años",
@@ -35,7 +35,7 @@ export const babysitters = [
   {
     id: 4,
     name: "Camila Rodríguez",
-    photoUrl: "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1000&auto=format&fit=crop",
+    photoUrl: "https://images.unsplash.com/photo-1602532305019-3c2518a81f53?q=80&w=1000&auto=format&fit=crop",
     rating: 4.7,
     reviews: 35,
     experience: "5 años",
@@ -46,7 +46,7 @@ export const babysitters = [
   {
     id: 5,
     name: "Isabella Hernández",
-    photoUrl: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1000&auto=format&fit=crop",
+    photoUrl: "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?q=80&w=1000&auto=format&fit=crop",
     rating: 4.9,
     reviews: 56,
     experience: "6 años",
@@ -57,7 +57,7 @@ export const babysitters = [
   {
     id: 6,
     name: "Lucía Díaz",
-    photoUrl: "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=1000&auto=format&fit=crop",
+    photoUrl: "https://images.unsplash.com/photo-1596567717401-4506f4c73c56?q=80&w=1000&auto=format&fit=crop",
     rating: 4.6,
     reviews: 19,
     experience: "2 años",
