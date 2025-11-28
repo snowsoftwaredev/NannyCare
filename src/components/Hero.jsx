@@ -14,8 +14,8 @@ const Hero = () => {
             </div>
             <div className="hero-image">
                 <img
-                    src="https://images.unsplash.com/photo-1587654780291-39c9404d746b?q=80&w=1170&auto=format&fit=crop"
-                    alt="Nanny caring for child"
+                    src="https://images.unsplash.com/photo-1543342384-1f1350e27861?q=80&w=1170&auto=format&fit=crop"
+                    alt="Niñera afroamericana con dos niños"
                 />
             </div>
         </section>
