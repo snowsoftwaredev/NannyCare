@@ -462,15 +462,6 @@ body {
   transform: scale(1.1);
 }
 
-/* Footer */
-.footer {
-  padding: 2rem;
-  text-align: center;
-  color: var(--text-light);
-  background: var(--white);
-  border-top: 1px solid #eee;
-}
-
 .contact-section {
   margin-bottom: 1rem;
 }

@@ -13,7 +13,7 @@ const Gallery = () => {
     };
 
     const handleBackdropClick = (e) => {
-        if (e.target.className === 'lightbox') {
+        if (e.target === e.currentTarget) {
             closeLightbox();
         }
     };
@@ -48,7 +48,12 @@ const Gallery = () => {
 
             {selectedImage && (
                 <div className="lightbox" onClick={handleBackdropClick}>
-                    <button className="lightbox-close" onClick={closeLightbox}>
+                    <button 
+                        className="lightbox-close" 
+                        onClick={closeLightbox}
+                        type="button"
+                        aria-label="Cerrar imagen"
+                    >
                         ✕
                     </button>
                     <div className="lightbox-content">
