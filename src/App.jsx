@@ -1,6 +1,7 @@
 import React from 'react';
 import Hero from './components/Hero';
 import BabysitterList from './components/BabysitterList';
+import Gallery from './components/Gallery';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           <div className="nav-links">
             <a href="#home">Inicio</a>
             <a href="#services">Servicios</a>
+            <a href="#gallery">Galería</a>
             <a href="#about">Nosotros</a>
             <a href="#contact">Contacto</a>
             <button className="btn-nav">Iniciar Sesión</button>
@@ -20,6 +22,7 @@ function App() {
       <main>
         <Hero />
         <BabysitterList />
+        <Gallery />
       </main>
       <footer className="footer">
         <div className="container">

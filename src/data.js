@@ -66,3 +66,60 @@ export const babysitters = [
     hourlyRate: 170
   }
 ];
+
+export const galleryImages = [
+  {
+    id: 1,
+    url: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?q=80&w=1200&auto=format&fit=crop",
+    alt: "Niñera jugando con niños en el parque",
+    description: "Tarde de diversión en el parque"
+  },
+  {
+    id: 2,
+    url: "https://images.unsplash.com/photo-1587616211892-579fce9f3f1e?q=80&w=1200&auto=format&fit=crop",
+    alt: "Niñera leyendo un cuento a un niño",
+    description: "Hora del cuento"
+  },
+  {
+    id: 3,
+    url: "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?q=80&w=1200&auto=format&fit=crop",
+    alt: "Niñera haciendo manualidades con niños",
+    description: "Actividades creativas"
+  },
+  {
+    id: 4,
+    url: "https://images.unsplash.com/photo-1489710437720-ebb67ec84dd2?q=80&w=1200&auto=format&fit=crop",
+    alt: "Niñera jugando en el jardín con niños",
+    description: "Juegos al aire libre"
+  },
+  {
+    id: 5,
+    url: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1200&auto=format&fit=crop",
+    alt: "Niñera preparando la merienda con los niños",
+    description: "Preparando la merienda juntos"
+  },
+  {
+    id: 6,
+    url: "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?q=80&w=1200&auto=format&fit=crop",
+    alt: "Niñera abrazando a un niño",
+    description: "Momentos de cariño y cuidado"
+  },
+  {
+    id: 7,
+    url: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?q=80&w=1200&auto=format&fit=crop",
+    alt: "Niñera ayudando con las tareas escolares",
+    description: "Apoyo con las tareas"
+  },
+  {
+    id: 8,
+    url: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?q=80&w=1200&auto=format&fit=crop",
+    alt: "Niñera y niños haciendo actividades artísticas",
+    description: "Arte y creatividad"
+  },
+  {
+    id: 9,
+    url: "https://images.unsplash.com/photo-1562184199-f4470d2f7f52?q=80&w=1200&auto=format&fit=crop",
+    alt: "Niñera jugando a las construcciones con niños",
+    description: "Construyendo juntos"
+  }
+];
